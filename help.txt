@@ -1,0 +1,16 @@
+CALPAGE short docs:
+
+'-v' or '--version'
+    - prints information about the current version of the program and its author.
+
+'-h' or '--help'
+    - prints this text.
+
+'ru' or 'en'
+    - sets the style of calendar page on the one you entered.
+
+'today'
+    - prints the calendar page of current month.
+
+'MM YYYY' or 'YYYY MM'
+    - prints the calendar page of entered month in entered year.
